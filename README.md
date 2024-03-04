@@ -1,2 +1,2 @@
-# xc3-powerframe
+# XC3 Power Frame
 Xenoblade 3 wearable power frame
