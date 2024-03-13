@@ -8,5 +8,5 @@ void setup() {
 
 void loop() {
     powerFrame.update();
-    delay(3);
+    delay(1);
 }
